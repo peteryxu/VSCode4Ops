@@ -9,7 +9,7 @@ provider "azurerm" {
 # Create a resoruce group
 resource "azurerm_resource_group"{
     name = "demo_rg"
-    location = "East US 2"
+    location = "West US 2"
     tags = { enviroment = "demo", build = "0.1"}
 
 }
