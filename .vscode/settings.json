@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "env_python4ops/bin/python"
+    "python.pythonPath": "env_python4ops/bin/python",
+    "liveServer.settings.CustomBrowser": "chrome"
 }
